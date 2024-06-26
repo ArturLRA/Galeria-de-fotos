@@ -1,0 +1,83 @@
+body {
+background-image: url(/9nslyxzg80n41.webp);
+background-repeat: repeat-y;
+background-size: cover;
+}
+
+.titulo {
+text-align: center;
+border: 3px solid;
+}
+
+
+.fotos {
+display: flex;
+order: 5;
+flex-direction: column;
+max-width: 200px;
+max-height: 200px;
+width: auto;
+height: auto;
+margin-left: 43%;
+gap: 20px;
+column-gap: 20px;
+text-align: center;
+
+}
+
+.jaeyun {
+border: 1px solid;
+border-radius: 20%;
+opacity: 1;
+transition: transform 0.5s, opacity 0.5s;
+
+}
+
+.jaeyun:hover {
+opacity: 1;
+transform: scale(1.5);
+}
+
+.kaya {
+border: 1px solid;
+border-radius: 20%;
+transition: transform 0.5s, opacity 0.5s;
+}
+
+.kaya:hover {
+opacity: 1;
+transform: scale(1.5);
+}
+
+.tezca {
+border: 1px solid;
+border-radius: 20%;
+transition: transform 0.5s, opacity 0.5s;
+}
+
+.tezca:hover {
+opacity: 1;
+transform: scale(1.5);
+}
+
+.val {
+border: 1px solid;
+border-radius: 20%;
+transition: transform 0.5s, opacity 0.5s;
+}
+
+.val:hover {
+ opacity: 1;
+transform: scale(1.5);
+}
+
+.wushang {
+border: 1px solid;
+border-radius: 20%;
+transition: transform 0.5s, opacity 0.5s;
+}
+
+.wushang:hover {
+opacity: 1;
+transform: scale(1.5);
+}
